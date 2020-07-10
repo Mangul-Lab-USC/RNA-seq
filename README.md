@@ -95,7 +95,7 @@
 <tr class="odd">
 <td>Skewer<a href="https://paperpile.com/c/VjSfVH/AYNs8"><sup>8</sup></a></td>
 <td>2014</td>
-<td>Adapter trimming of reads</td>
+<td>More in depth explanation of what my tool does: super awesome trimmer of reads</td>
 <td>C++</td>
 <td>Anaconda</td>
 <td>++</td>
