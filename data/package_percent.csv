@@ -1,0 +1,20 @@
+﻿domain,domain_name,Anaconda,Bioconductor,CRAN,pip,Docker Hub,PyPI,none,total
+e,Transcriptome quantification,0.3125,0.09375,0,0.03125,0,0,0.5625,1
+f,Differential expression,0.333333333,0.333333333,0.060606061,0,0,0,0.272727273,1
+b,Read alignment,0.545454545,0,0,0,0,0,0.454545455,1
+g,RNA splicing,0.24,0.16,0,0,0,0,0.6,1
+m,Detecting circRNA,0.052631579,0.052631579,0,0,0,0,0.894736842,1
+l,Fusion detection,0.294117647,0,0,0,0,0,0.705882353,1
+h,Cell deconvolution,0.25,0,0.083333333,0,0,0,0.666666667,1
+a,Data quality control,0.5625,0.125,0,0,0,0,0.3125,1
+d,Transcriptome assembly ,0.25,0,0,0,0,0,0.75,1
+n,Small RNA detection,0.8,0,0,0,0,0,0.2,1
+o,Visualization tools ,0.235294118,0.176470588,0,0,0,0,0.588235294,1
+j,Allele specific expression ,0.166666667,0.083333333,0,0,0,0,0.75,1
+i,Immune repertoire profiling,0.4,0,0,0,0,0,0.6,1
+c,Gene annotations,0.5,0,0,0,0,0,0.5,1
+k,Viral detection ,0.5,0,0,0,0,0,0.5,1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,16 @@
+﻿Category,citation_per_year,most
+Data quality control,5177.334776,2568.833333
+Read alignment,4418.322222,1554.857143
+Gene annotations,128.0666667,74.6
+Transcriptome assembly,2904.393254,1053.444444
+Transcriptome quantification,5735.11829,1692.2
+Differential expression,6758.415873,2597.666667
+RNA splicing,381.8797619,115.5
+Cell deconvolution,210.6166667,64
+Immune repertoire profiling,142.65,88.4
+Allele specific expression,202.5031746,39.8
+Viral detection,45.35714286,16.57142857
+Fusion detection,279.5896825,66
+Detecting circRNA,932.8880952,473.5714286
+Small RNA detection,435.634127,143.3333333
+Visualization tools,1114.65,1027.375
