@@ -950,7 +950,7 @@
 <td>Julia</td>
 <td>N/A</td>
 <td>+++</td>
-<td><h3 id="httpsgithub.comtimbitzwhippet.jl"><a href="https://urldefense.com/v3/__https://github.com/timbitz/Whippet.jl__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7ErLh3YeI$"><span class="underline">https://github.com/timbitz/Whippet.jl</span></a></h3></td>
+<td><a href="https://urldefense.com/v3/__https://github.com/timbitz/Whippet.jl__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7ErLh3YeI$"><span class="underline">https://github.com/timbitz/Whippet.jl</span></a></td>
 <td>1</td>
 </tr>
 <tr class="even">
@@ -970,7 +970,7 @@
 <td>R, Perl</td>
 <td>N/A</td>
 <td>+++</td>
-<td><h3 id="httpsgithub.comvastgroupvast-tools"><a href="https://urldefense.com/v3/__https://github.com/vastgroup/vast-tools__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7Efajq4L4$"><span class="underline">https://github.com/vastgroup/vast-tools</span></a></h3></td>
+<td><a href="https://urldefense.com/v3/__https://github.com/vastgroup/vast-tools__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7Efajq4L4$"><span class="underline">https://github.com/vastgroup/vast-tools</span></a></td>
 <td>1</td>
 </tr>
 <tr class="even">
@@ -1184,7 +1184,7 @@
 <td>C++, Python</td>
 <td>N/A</td>
 <td>+++</td>
-<td><strong><a href="https://urldefense.com/v3/__https://galaxy.biociphers.org/galaxy/root?tool_id=majiq_spel__;!!LIr3w8kk_Xxm!9HDV79ohdTaNgi9fLGjyLb4eIakLRhb1CPCRFebtWc9ahY-6GQpBMKvS0LkeG0E$"><span class="underline">https://galaxy.biociphers.org/galaxy/root?tool_id=majiq_spel</span></a></strong></td>
+<td><a href="https://urldefense.com/v3/__https://galaxy.biociphers.org/galaxy/root tool_id=majiq_spel__;!!LIr3w8kk_Xxm!9HDV79ohdTaNgi9fLGjyLb4eIakLRhb1CPCRFebtWc9ahY-6GQpBMKvS0LkeG0E$"><span class="underline">https://galaxy.biociphers.org/galaxy/root?tool_id=majiq_spel</span></a></td>
 <td>2</td>
 </tr>
 <tr class="even">
