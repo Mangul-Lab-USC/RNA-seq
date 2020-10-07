@@ -1224,7 +1224,8 @@
 <td>Python, R</td>
 <td>Anaconda</td>
 <td>++</td>
-<td><h3 id="httpsgithub.comcomprnasuppa"><a href="https://urldefense.com/v3/__https://github.com/comprna/SUPPA__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7EbRA4E0w$"><span class="underline">https://github.com/comprna/SUPPA</span></a></h3></td>
+<td><a href="https://urldefense.com/v3/__https://github.com/comprna/SUPPA__;!!LIr3w8kk_Xxm!79cxwkS1fWXUUrx2H80qWxFR7igz5ztodLUb5CVzMfe1UBF69YEXgU7EbRA4E0w$"><span class="underline">https://github.com/comprna/SUPPA</span>
+</a></td>
 <td>1</td>
 </tr>
 <tr class="even">
