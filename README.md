@@ -852,7 +852,7 @@
 <tr class="odd">
 <td>EDASeq<a href="https://paperpile.com/c/VjSfVH/nZEoj"><sup>82</sup></a></td>
 <td>2011</td>
-<td><h3 id="within-lane-gc-content-normalization-between-sample-normalization-visualization.">Within-lane GC-content normalization, between-sample normalization, visualization.</h3></td>
+<td>Within-lane-gc-content-normalization-between-sample-normalization-visualization</td>
 <td>R</td>
 <td>Anaconda, Bioconductor</td>
 <td>++</td>
