@@ -2488,7 +2488,7 @@ services).
 
 ### **Determine features of RNA-seq tools**
 
-We compiled 228 RNA-seq tools published between 2008 and 2020 which have
+We compiled 235 RNA-seq tools published between 2008 and 2020 which have
 varying purposes and capabilities based on the type of analysis one is
 conducting or the biological questions one is answering. We have
 considered 15 domains of RNA-seq analysis (data quality control, read
