@@ -6,11 +6,10 @@ This project contains the datasets and code used in our study:
 ---
 
 ## 📑 Table of Contents
-- [How to Cite This Study](#how-to-cite-this-study)
-- [Datasets](#datasets)
-- [Reproducing Results](#reproducing-results)
-- [Contact](#contact)
-
+- [How to Cite This Study](#-how-to-cite-this-study)
+- [Datasets](#-datasets)
+- [Reproducing Results](#-reproducing-results)
+- [Contact](#-contact)
 ---
 
 ## 📚 How to Cite This Study
