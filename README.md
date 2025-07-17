@@ -9,7 +9,9 @@ This project contains the datasets and code used in our study:
 - [How to Cite This Study](#-how-to-cite-this-study)
 - [Datasets](#-datasets)
 - [Reproducing Results](#-reproducing-results)
+- [License](#-license)
 - [Contact](#-contact)
+
 ---
 
 ## 📚 How to Cite This Study
@@ -53,10 +55,15 @@ All figures and analyses can be reproduced using the accompanying code and data.
 
 ---
 
+## License
+This repository is under MIT license. 
+
+---
+
 ## 📬 Contact
 
 Please contact us with comments, suggestions, or questions:
 
-- smangul@ucla.edu  
+- serghei.mangul@gmail.com    
 - mealser@gmail.com  
 - susharma@usc.edu
