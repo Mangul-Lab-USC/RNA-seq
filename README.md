@@ -9,7 +9,7 @@ This project contains the datasets and code used in our study:
 - [How to Cite This Study](#-how-to-cite-this-study)
 - [Datasets](#-datasets)
 - [Reproducing Results](#-reproducing-results)
-- [License](#-license)
+- [License](#license)
 - [Contact](#-contact)
 
 ---
