@@ -16,7 +16,7 @@ This project contains the datasets and code used in our study:
 
 ## 📚 How to Cite This Study
 
-_Sharma, S., et al.(2025) Robust software development practices improve citations of RNA-seq tools. **Biopolymers and Cell**. DOI: [10.7124/bc.000AFE](http://dx.doi.org/10.7124/bc.000AFE)___
+Sharma, S., et al.(2025) Robust software development practices improve citations of RNA-seq tools. **Biopolymers and Cell**. DOI: [10.7124/bc.000AFE](http://dx.doi.org/10.7124/bc.000AFE)
 
 ---
 
