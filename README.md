@@ -1,7 +1,5 @@
-# Software Development Practices in RNA-Seq Tools
-
-This project contains the datasets and code used in our study:  
-**"A comprehensive analysis of software development and distribution practices followed by 430 RNA-seq tools developed from 2008 to 2024."**
+# Software Development Practices in 430 RNA-Seq Tools
+We conducted a comprehensive assessment of 430 RNA-seq tools developed between 2008 and 2024, categorizing them based on the type of analysis they perform. Our evaluation encompassed their software development and distribution methodologies, as well as the attributes contributing to their widespread adoption and dependability within the biomedical community. Our findings establish the first documented positive correlation between rigorous software development practices - quantified by factors such as package manager availability, Docker containerization, multithreading support, documentation quality, and example dataset inclusion - and the scholarly impact of published RNA-seq tools, as measured by citations (Mann-Whitney U test, p-value = 4.9 × 10⁻-26). By identifying key characteristics of widely adopted software, our findings provide guidance for developing robust and user-friendly RNA-seq tools, thereby reinforcing the call for new community-wide standards. 
 
 ---
 
