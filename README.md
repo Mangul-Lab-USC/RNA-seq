@@ -42,9 +42,9 @@ The dataset is provided as a CSV file and contains the following fields:
 
 ## 🧪 Reproducing Results
 
-To reproduce our figures and results, we provide Google Colab Notebooks:
+To reproduce our figures and results, we provide a Google Colab Notebook:
 
-- [GoogleColab Notebook]([https://github.com/Mangul-Lab-USC/RNA-seq/blob/master/notebook/RNA_Seq_Project.ipynb])
+- [Google Colab Notebook](https://github.com/Mangul-Lab-USC/RNA-seq/blob/master/notebook/RNA_Seq_Project.ipynb)
 
 All figures and analyses can be reproduced using the accompanying code and data.
 
