@@ -1,20 +1,14 @@
-# Software Development Practices in 433 RNA-Seq Tools
+# What Makes Bioinformatics Software Succeed? An Evaluation of 433 RNA-seq Tools
 We conducted a comprehensive assessment of 430 RNA-seq tools developed between 2008 and 2024, categorizing them based on the type of analysis they perform. Our evaluation encompassed their software development and distribution methodologies, as well as the attributes contributing to their widespread adoption and dependability within the biomedical community. Our findings establish the first documented positive correlation between rigorous software development practices - quantified by factors such as package manager availability, Docker containerization, multithreading support, documentation quality, and example dataset inclusion - and the scholarly impact of published RNA-seq tools, as measured by citations (Mann-Whitney U test, p-value = 4.9 × 10⁻-26). By identifying key characteristics of widely adopted software, our findings provide guidance for developing robust and user-friendly RNA-seq tools, thereby reinforcing the call for new community-wide standards. 
 
 ---
 
 ## 📑 Table of Contents
-- [How to Cite This Study](#-how-to-cite-this-study)
 - [Datasets](#-datasets)
 - [Reproducing Results](#-reproducing-results)
 - [License](#license)
 - [Contact](#-contact)
 
----
-
-## 📚 How to Cite This Study
-
-Sharma, S., et al.(2025) Robust software development practices improve citations of RNA-seq tools. **Biopolymers and Cell**. DOI: [10.7124/bc.000AFE](http://dx.doi.org/10.7124/bc.000AFE)
 
 ---
 
