@@ -3,7 +3,7 @@ We conducted a comprehensive assessment of RNA-seq tools developed between 2008 
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Datasets](#-datasets)
 - [Reproducing Results](#-reproducing-results)
 - [License](#license)
@@ -12,7 +12,7 @@ We conducted a comprehensive assessment of RNA-seq tools developed between 2008 
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 We compiled publications describing novel RNA-seq tools from [Google Scholar](https://scholar.google.com), [PubMed](https://pubmed.ncbi.nlm.nih.gov), and [Oxford Academic](https://academic.oup.com).  
 Our approach for extracting and verifying software links is described in the **Methods** section of the manuscript. Timeout links were manually verified.
@@ -34,7 +34,7 @@ The dataset is provided as a CSV file and contains the following fields:
 
 ---
 
-## 🧪 Reproducing Results
+## Reproducing Results
 
 To reproduce our figures and results, we provide a Google Colab Notebook:
 
@@ -49,10 +49,10 @@ This repository is under MIT license.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Please contact us with comments, suggestions, or questions:
 
 - serghei.mangul@gmail.com    
 - mealser@gmail.com  
-- susharma@usc.edu
+- sanskruti.sharma@unlv.edu
